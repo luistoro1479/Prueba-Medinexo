@@ -1,5 +1,5 @@
 <?php
-				// Curl setup
+				// Curl setup 
 				$mnxdb_url = "https://medinexo.caspio.com/rest/v2/tables/MNX_Currencies/records?q.select=Currency_Name%2CCurrency_Alphabetic_Code%2CCurrency_Numeric_Code%2CCurrency_USD_Exchange%2C";
 				
 				// echo "uso este url para el curl:",$mnxdb_url;
